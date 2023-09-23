@@ -53,10 +53,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09 - now*, M.Sc, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](http://www.seu.edu.cn/), China.
 - *2017.09 - 2021.06*, B.Sc, [Bell Honors School](https://bhs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/), China. 
 
-<! --  # 💬 Invited Talks
-- *2023.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+# 💬 Correspondence
+- Email:
+  - [shiyu696@gmail.com](mailto:shiyu696@gmail.com)
+  - [seushiyu@seu.edu.cn](mailto:seushiyu@seu.edu.cn)
+- Lab:
+  - 439, Building of Computer Science and Engineering, Southeast University.
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
--->
+- *2019.05 - 2020.02*, [Huawei Technologies Co., Ltd](https://www.huawei.com/), Nanjing, China.
