@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Under Construction.
+This page is still under construction.
 
 My research interest includes machine learning, mainly about weakly-supervised learning. Specifically:
 - Partial Label Learning (PLL)
@@ -40,7 +40,7 @@ My research interest includes machine learning, mainly about weakly-supervised l
   - Hua Yuan, **Yu Shi**, Ning Xu, Xu Yang, Xin Geng\*, Yong Rui\*.
   - *Advances in Neural Information Processing Systems (**NeurIPS2023, CCF-A**).*
 
-- [Unreliable Partial Label Learning with Recursive Separation](https://www.ijcai.org/proceedings/2023/0468.pdf). [[Code will be available soon.]](#)
+- [Unreliable Partial Label Learning with Recursive Separation](https://www.ijcai.org/proceedings/2023/0468.pdf). [[Code will be available soon]](#)
   - **Yu Shi**, Ning Xu\*, Hua Yuan, Xin Geng\*.
   - *Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI2023, CCF-A**).*
 
