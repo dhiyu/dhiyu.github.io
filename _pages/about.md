@@ -30,28 +30,33 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 - [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
-  - **Yu Shi**$\dagger$, Dong-Dong Wu$\dagger$, Xin Geng\*, Min-Ling Zhang\*
-  - *Under Review*
+  - **Yu Shi**$\dagger$, Dong-Dong Wu$\dagger$, Xin Geng\*, Min-Ling Zhang\*.
+  - *Under Review.*
 
 - [Learning From Biased Soft Labels](https://arxiv.org/pdf/2302.08155).
   - Hua Yuan, **Yu Shi**, Ning Xu, Xu Yang, Xin Geng\*, Yong Rui\*.
-  - *Advances in Neural Information Processing Systems(**NeurIPS2023, CCF-A**)*
+  - *Advances in Neural Information Processing Systems (**NeurIPS2023, CCF-A**).*
 
 - [Unreliable Partial Label Learning with Recursive Separation](https://www.ijcai.org/proceedings/2023/0468.pdf). [[Code will be available soon.]](#)
   - **Yu Shi**, Ning Xu\*, Hua Yuan, Xin Geng\*.
-  - *Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI2023, CCF-A**)*
+  - *Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI2023, CCF-A**).*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2022 2nd Prize, The 18th ”HUAWEI Cup” China Post‑Graduate Mathematical Contest in Modeling, Nanjing, China.
+- 2020 2nd Prize, National Computer Design Competition, Online.
+- 2020 2nd Prize, American Mathematical Contest in Modeling, U.S.A.
+- 2019 1st Prize, National College Students Mathematical Contest in Modeling in Jiangsu Province Nanjing, China.
+- 2019 2nd Prize, `3S Cup` National University Biological Networking Application Three Innovation Competition, Nanjing, China.
+- 2019 1st Prize, National University Biological Networking Design Competition East China Division, Shanghai, China. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, M.Sc, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](http://www.seu.edu.cn/), China.
+- *2017.09 - 2021.06*, B.Sc, [Bell Honors School](https://bhs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/), China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<! --  # 💬 Invited Talks
+- *2023.08*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+-->
