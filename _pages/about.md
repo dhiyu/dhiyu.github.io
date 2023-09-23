@@ -23,8 +23,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS2023, congratulations to my friend Hua Yuan.
+- *2023.08*: &nbsp;🎉🎉 Attend IJCAI2023 conference and present my work at Macau S.A.R., China.
+- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by IJCAI2023.
 
 # 📝 Publications 
 
