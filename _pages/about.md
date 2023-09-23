@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Under Construction.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes machine learning, mainly about weakly-supervised learning. Specifically:
+- Partial Label Learning (PLL)
+- Noisy Label Learning (NLL)
+- Unreliable Partial Label Learning (UPLL)
 
 
 # 🔥 News
@@ -46,11 +49,11 @@ My research interest includes neural machine translation and computer vision. I 
 - 2020 2nd Prize, National Computer Design Competition, Online.
 - 2020 2nd Prize, American Mathematical Contest in Modeling, U.S.A.
 - 2019 1st Prize, National College Students Mathematical Contest in Modeling in Jiangsu Province Nanjing, China.
-- 2019 2nd Prize, `3S Cup` National University Biological Networking Application Three Innovation Competition, Nanjing, China.
+- 2019 2nd Prize, "3S Cup" National University Biological Networking Application Three Innovation Competition, Nanjing, China.
 - 2019 1st Prize, National University Biological Networking Design Competition East China Division, Shanghai, China. 
 
 # 📖 Educations
-- *2021.09 - now*, M.Sc, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](http://www.seu.edu.cn/), China.
+- *2021.09 - Now*, M.Sc, [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](http://www.seu.edu.cn/), China.
 - *2017.09 - 2021.06*, B.Sc, [Bell Honors School](https://bhs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/), China. 
 
 # 💬 Correspondence
@@ -59,5 +62,6 @@ My research interest includes neural machine translation and computer vision. I 
   - [seushiyu@seu.edu.cn](mailto:seushiyu@seu.edu.cn)
 - Lab:
   - 439, Building of Computer Science and Engineering, Southeast University.
+
 # 💻 Internships
-- *2019.05 - 2020.02*, [Huawei Technologies Co., Ltd](https://www.huawei.com/), Nanjing, China.
+- *2023.06 - 2023.08*, software algorithm engineer in [Huawei Technologies Co., Ltd](https://www.huawei.com/), Nanjing, China.
