@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yu Shi"
-description              : "M.SC. iN SCHOOL OF COMPUTER SCiENCE AND ENGiNEERiNG (COMPUTER ENGiNEERiNG)"
+description              : "M.Sc. Student in School of Computer Science and Engineering"
 repository               : "dhiyu/dhiyu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yu Shi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/shiyu_personal.jpg"
   bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
