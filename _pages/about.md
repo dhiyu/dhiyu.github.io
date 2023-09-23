@@ -45,7 +45,7 @@ My research interest includes machine learning, mainly about weakly-supervised l
   - *Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI2023, CCF-A**).*
 
 # 🎖 Honors and Awards
-- 2022 2nd Prize, The 18th ”HUAWEI Cup” China Post‑Graduate Mathematical Contest in Modeling, Nanjing, China.
+- 2022 2nd Prize, The 18th "HUAWEI-Cup" China Post‑Graduate Mathematical Contest in Modeling, Nanjing, China.
 - 2020 2nd Prize, National Computer Design Competition, Online.
 - 2020 2nd Prize, American Mathematical Contest in Modeling, U.S.A.
 - 2019 1st Prize, National College Students Mathematical Contest in Modeling in Jiangsu Province Nanjing, China.
