@@ -47,6 +47,7 @@ My research interest includes machine learning, mainly about weakly-supervised l
   - *Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI2023, CCF-A**).*
  
 > $\dagger$ These authors contributed equally.
+
 > \* Corresponding authors.
 
 # 🎖 Honors and Awards
