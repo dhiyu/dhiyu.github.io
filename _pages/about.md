@@ -34,11 +34,11 @@ My research interest includes machine learning, mainly about weakly-supervised l
 
 # 📝 Publications 
 
-- [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf)
+- [Robust Representation Learning for Unreliable Partial Label Learning.](https://arxiv.org/pdf/2308.16718.pdf) [[Code will be available after the paper is accepted]](#)
   - **Yu Shi**$\dagger$, Dong-Dong Wu$\dagger$, Xin Geng\*, Min-Ling Zhang\*.
   - *Under Review.*
 
-- [Learning From Biased Soft Labels](https://arxiv.org/pdf/2302.08155).
+- [Learning From Biased Soft Labels](https://arxiv.org/pdf/2302.08155). [[Code will be available soon]](#)
   - Hua Yuan, **Yu Shi**, Ning Xu, Xu Yang, Xin Geng\*, Yong Rui\*.
   - *Advances in Neural Information Processing Systems (**NeurIPS2023, CCF-A**).*
 
