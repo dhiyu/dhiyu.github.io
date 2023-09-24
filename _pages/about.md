@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Now I'm a third-year M.Sc. Student in [*School of Computer Science and Engineering*](https://cse.seu.edu.cn/) at [*Southeast University*](http://www.seu.edu.cn/).
-I'm also a member of PAttern Learning and Mining([PALM](http://palm.seu.edu.cn/) Lab, and my supervisor is [Xin Geng](http://palm.seu.edu.cn/xgeng/) and [Ning Xu](http://palm.seu.edu.cn/xuning/).
+I'm also a member of PAttern Learning and Mining([*PALM*](http://palm.seu.edu.cn/) Lab, and my supervisor is [*Xin Geng*](http://palm.seu.edu.cn/xgeng/) and [*Ning Xu*](http://palm.seu.edu.cn/xuning/).
+I obtained my bachelor's degree from [*Nanjing University of Posts and Telecommunications*](http://www.njupt.edu.cn/) in June 2021, and in the same year, I was admitted to [*Southeast University*](http://www.seu.edu.cn/) for my master's degree without taking an entrance exam.
 
 My research interest includes machine learning, mainly about weakly-supervised learning. Specifically:
 - Partial Label Learning (PLL)
