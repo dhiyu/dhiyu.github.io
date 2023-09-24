@@ -45,6 +45,9 @@ My research interest includes machine learning, mainly about weakly-supervised l
 - [Unreliable Partial Label Learning with Recursive Separation](https://www.ijcai.org/proceedings/2023/0468.pdf). [[Code will be available soon]](#)
   - **Yu Shi**, Ning Xu\*, Hua Yuan, Xin Geng\*.
   - *Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (**IJCAI2023, CCF-A**).*
+ 
+> $\dagger$ These authors contributed equally.
+> \* Corresponding authors.
 
 # 🎖 Honors and Awards
 - 2022 2nd Prize, The 18th "HUAWEI-Cup" China Post‑Graduate Mathematical Contest in Modeling, Nanjing, China.
