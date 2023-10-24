@@ -30,7 +30,7 @@ My research interest includes machine learning, mainly about weakly-supervised l
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS2023, congratulations to my friend Hua Yuan.
+- *2023.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS2023.
 - *2023.08*: &nbsp;🎉🎉 Attend IJCAI2023 conference and present my work at Macau S.A.R., China.
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by IJCAI2023.
 
